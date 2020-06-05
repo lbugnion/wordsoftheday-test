@@ -1,18 +1,12 @@
-# Azure Words of the Day Synopsis: <!-- TOPIC -->
+# Azure Words of the Day Synopsis: Test 8
 
 > This is a template to help you create a synopsis. [You can see an example here](../synopsis/aad.md).
 
 ## Submitted by
 
-<!-- ENTER YOUR NAME HERE -->
+lbugnion@bluewin.ch
 
-<!-- ENTER YOUR EMAIL HERE -->
-
-<!-- ENTER YOUR TWITTER NAME HERE -->
-
-## Short description
-
-<!-- ENTER A SHORT DESCRIPTION HERE -->
+@TestTwitter
 
 ## Phonetics
 
